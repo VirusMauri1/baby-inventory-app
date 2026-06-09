@@ -49,7 +49,7 @@ const FIREBASE_CONFIG = {
 const ALLOWED_EMAILS = [
   "dimasanaro2005@gmail.com",
   "sofia.archila95@gmail.com",
-  "Vesuviusdiz@gmail.com",
+  "vesuviusdiz@gmail.com",
   "joansa2002@gmail.com",
   // Añade más correos aquí
 ];
